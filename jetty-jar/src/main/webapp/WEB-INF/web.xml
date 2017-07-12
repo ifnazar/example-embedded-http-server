@@ -5,7 +5,7 @@
 
 	<servlet>
 		<servlet-name>nif</servlet-name>
-		<servlet-class>nif.example.MavenJettyInt</servlet-class>
+		<servlet-class>nif.example.HelloServelet</servlet-class>
 	</servlet>
 	<servlet-mapping>
 		<servlet-name>nif</servlet-name>
